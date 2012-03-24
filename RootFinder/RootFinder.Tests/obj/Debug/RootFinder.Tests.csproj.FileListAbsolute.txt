@@ -1,0 +1,7 @@
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder.Tests\bin\Debug\RootFinder.Tests.dll
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder.Tests\bin\Debug\RootFinder.Tests.pdb
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder.Tests\obj\Debug\RootFinder.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder.Tests\obj\Debug\RootFinder.Tests.dll
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder.Tests\obj\Debug\RootFinder.Tests.pdb
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder.Tests\bin\Debug\RootFinder.dll
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder.Tests\bin\Debug\RootFinder.pdb

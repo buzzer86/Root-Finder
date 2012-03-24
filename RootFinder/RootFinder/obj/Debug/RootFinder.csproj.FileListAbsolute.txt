@@ -1,0 +1,5 @@
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder\bin\Debug\RootFinder.dll
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder\bin\Debug\RootFinder.pdb
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder\obj\Debug\RootFinder.dll
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder\obj\Debug\RootFinder.pdb
+C:\Users\Paul\Root-Finder\RootFinder\RootFinder\obj\Debug\RootFinder.csprojResolveAssemblyReference.cache
