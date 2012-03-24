@@ -7,12 +7,12 @@ namespace RootFinder.Tests
     [TestClass]
     public class WhenFindingRoots
     {
-        private RtFinder _rootFinder;
+        private Newton _rootFinder;
 
         [TestInitialize]
         public void Setup() 
         {
-            _rootFinder = new RtFinder();
+            _rootFinder = new Newton();
         }
 
         [TestMethod]

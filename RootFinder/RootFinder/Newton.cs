@@ -5,14 +5,14 @@ using System.Text;
 
 namespace RootFinder
 {
-    public class RtFinder
+    public class Newton : IRootFinder
     {        
         public double Accuracy { get; set; }
         public double StepSize { get; set; }
         public int MaxSteps { get; set; }
         public double Seed { get; set; }        
 
-        public RtFinder() 
+        public Newton() 
         {            
             Accuracy = 0.00001;
             StepSize = 0.00001;
