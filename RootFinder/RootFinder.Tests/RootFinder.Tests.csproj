@@ -46,6 +46,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="WhenParsingTheFunction.cs" />
     <Compile Include="WhenFindingRoots.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
